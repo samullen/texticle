@@ -26,7 +26,7 @@ Gem::Specification.new do |s|
     'lib/texticle/rails.rb',
     'lib/texticle/searchable.rb',
     'lib/texticle/tasks.rb',
-    'lib/texticle/postgres_module_installer.rb'
+    'lib/texticle/postgres_module_installer.rb',
     'lib/texticle/version.rb'
   ]
   s.executables   = []
